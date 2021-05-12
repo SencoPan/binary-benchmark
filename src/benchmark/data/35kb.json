@@ -1,0 +1,1188 @@
+{
+	"success" : true,
+	"records" : [
+		{
+			"id"        : 1,
+			"name"      : "Возле",
+			"kestos"    : "БЛИЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Blz)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-близо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 2,
+			"name"      : "Около",
+			"kestos"    : "БЛИЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Blz)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-близо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 3,
+			"name"      : "Подле",
+			"kestos"    : "БЛИЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Blz)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-близо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 4,
+			"name"      : "В",
+			"kestos"    : "В",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Vvv)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-во-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 5,
+			"name"      : "В",
+			"kestos"    : "ВВ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Pzl-Vvf)}",
+			"mestoses"  : null,
+			"grammatus" : "Препозило-вво-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 6,
+			"name"      : "Вдоль",
+			"kestos"    : "ВДОЛЬ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vdl)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-вдольо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 7,
+			"name"      : "Вне",
+			"kestos"    : "ВНЕ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vne)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-внео-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 8,
+			"name"      : "Извне",
+			"kestos"    : "ВНЕ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vne)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-внео-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 9,
+			"name"      : "Снаружи",
+			"kestos"    : "ВНЕ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vne)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-внео-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 10,
+			"name"      : "Внутри",
+			"kestos"    : "ВНУТРИ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vni)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-внутрио-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 11,
+			"name"      : "Изнутри",
+			"kestos"    : "ВНУТРИ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vni)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-внутрио-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 12,
+			"name"      : "Во",
+			"kestos"    : "ВО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Vov)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-воо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 13,
+			"name"      : "Во",
+			"kestos"    : "ВОО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Pzl-Voo)}",
+			"mestoses"  : null,
+			"grammatus" : "Препозило-вооо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 14,
+			"name"      : "Вокруг",
+			"kestos"    : "ВОКРУГ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vkg)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-вокруго-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 15,
+			"name"      : "Окрест",
+			"kestos"    : "ВОКРУГ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vkg)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-вокруго-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 16,
+			"name"      : "Вкруг",
+			"kestos"    : "ВОКРУГ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vkg)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-вокруго-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 17,
+			"name"      : "До",
+			"kestos"    : "ДО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Dov)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-доо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 18,
+			"name"      : "До (до дому,до ветру)",
+			"kestos"    : "ДОО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Prl-Doo)}",
+			"mestoses"  : null,
+			"grammatus" : "Партило-доо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 19,
+			"name"      : "За",
+			"kestos"    : "ЗА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Zav)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблато-зао-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 20,
+			"name"      : "За",
+			"kestos"    : "ЗАА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Zaa)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-заао-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 21,
+			"name"      : "Из",
+			"kestos"    : "ИЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Izz)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-изо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 22,
+			"name"      : "Из-за",
+			"kestos"    : "ИЗЗЗА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Rlvt(Gnl-Iaz)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-изззао-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 23,
+			"name"      : "Из-под",
+			"kestos"    : "ИЗПОД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Izp)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-изподо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 24,
+			"name"      : "Из-подо",
+			"kestos"    : "ИЗПОДО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Izd)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-изподоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 25,
+			"name"      : "Изо",
+			"kestos"    : "ИЗО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Izo)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-изоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 26,
+			"name"      : "К",
+			"kestos"    : "К",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Dal-Kkk)}",
+			"mestoses"  : null,
+			"grammatus" : "Дало-ко-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 27,
+			"name"      : "Ко",
+			"kestos"    : "КО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Dal-Koo)}",
+			"mestoses"  : null,
+			"grammatus" : "Дало-коо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 28,
+			"name"      : "Меж",
+			"kestos"    : "МЕЖ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Mej)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-межо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 29,
+			"name"      : "Промеж",
+			"kestos"    : "МЕЖ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Mej)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-межо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 30,
+			"name"      : "Между",
+			"kestos"    : "МЕЖДУ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Mjd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-междуо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 31,
+			"name"      : "Промежду",
+			"kestos"    : "МЕЖДУ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Mjd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-междуо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 32,
+			"name"      : "Мимо",
+			"kestos"    : "МИМО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Mmo)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-мимоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 33,
+			"name"      : "На",
+			"kestos"    : "НА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Nav)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-нао-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 34,
+			"name"      : "На",
+			"kestos"    : "НАА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Pzl-Naa)}",
+			"mestoses"  : null,
+			"grammatus" : "Препозило-наао-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 35,
+			"name"      : "Над",
+			"kestos"    : "НАД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Nad)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-надо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 36,
+			"name"      : "Надо",
+			"kestos"    : "НАДО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Ndo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-надоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 37,
+			"name"      : "О",
+			"kestos"    : "О",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Ooo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-оо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 38,
+			"name"      : "Об",
+			"kestos"    : "ОБ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Obb)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-обо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 39,
+			"name"      : "Обо",
+			"kestos"    : "ОБО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Obo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-обоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 40,
+			"name"      : "Обок",
+			"kestos"    : "ОБОК",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Obk)}",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Psd)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-посредо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 63,
+			"name"      : "Средь",
+			"kestos"    : "ПОСРЕДИ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Psd)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-посредо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 64,
+			"name"      : "Пред",
+			"kestos"    : "ПРЕД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Prd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-предо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 65,
+			"name"      : "Пред",
+			"kestos"    : "ПРЕДД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Pdd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-преддо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 66,
+			"name"      : "Предо",
+			"kestos"    : "ПРЕДО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Pre)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-предоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 67,
+			"name"      : "Предо",
+			"kestos"    : "ПРЕДДО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Pdo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-предоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 68,
+			"name"      : "Супротив",
+			"kestos"    : "ПРОТИВ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Prv)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-противо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 69,
+			"name"      : "Напротив",
+			"kestos"    : "ПРОТИВ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Prv)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-противо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 70,
+			"name"      : "По-за (корчму)",
+			"kestos"    : "ПОЗА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Pza)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-позао--предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 71,
+			"name"      : "По-за (кем)",
+			"kestos"    : "ПОЗЗА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Pzz)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-позао--предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 72,
+			"name"      : "По-над",
+			"kestos"    : "ПОНАД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Pnd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-понадо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 73,
+			"name"      : "По-под",
+			"kestos"    : "ПОПОД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Ppd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-поподо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 74,
+			"name"      : "С",
+			"kestos"    : "С",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Sss)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-со-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 75,
+			"name"      : "Сквозь",
+			"kestos"    : "СКВОЗЬ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Skz)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-сквозьо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 76,
+			"name"      : "Со",
+			"kestos"    : "СО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Soo)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-соо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 77,
+			"name"      : "У",
+			"kestos"    : "У",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Uuu)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-уо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 78,
+			"name"      : "Через",
+			"kestos"    : "ЧЕРЕЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Chz)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-черезо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 79,
+			"name"      : "Чрез",
+			"kestos"    : "ЧЕРЕЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Chz)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-черезо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 80,
+			"name"      : "Черезо",
+			"kestos"    : "ЧЕРЕЗО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Czo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-черезоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 81,
+			"name"      : "Чрезо",
+			"kestos"    : "ЧЕРЕЗО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Czo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-черезоо-предлого-симплидо-ориент",
+			"attributes": null
+		}, {
+			"id"        : 1,
+			"name"      : "Возле",
+			"kestos"    : "БЛИЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Blz)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-близо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 2,
+			"name"      : "Около",
+			"kestos"    : "БЛИЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Blz)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-близо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 3,
+			"name"      : "Подле",
+			"kestos"    : "БЛИЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Blz)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-близо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 4,
+			"name"      : "В",
+			"kestos"    : "В",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Vvv)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-во-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 5,
+			"name"      : "В",
+			"kestos"    : "ВВ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Pzl-Vvf)}",
+			"mestoses"  : null,
+			"grammatus" : "Препозило-вво-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 6,
+			"name"      : "Вдоль",
+			"kestos"    : "ВДОЛЬ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vdl)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-вдольо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 7,
+			"name"      : "Вне",
+			"kestos"    : "ВНЕ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vne)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-внео-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 8,
+			"name"      : "Извне",
+			"kestos"    : "ВНЕ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vne)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-внео-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 9,
+			"name"      : "Снаружи",
+			"kestos"    : "ВНЕ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vne)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-внео-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 10,
+			"name"      : "Внутри",
+			"kestos"    : "ВНУТРИ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vni)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-внутрио-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 11,
+			"name"      : "Изнутри",
+			"kestos"    : "ВНУТРИ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vni)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-внутрио-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 12,
+			"name"      : "Во",
+			"kestos"    : "ВО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Vov)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-воо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 13,
+			"name"      : "Во",
+			"kestos"    : "ВОО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Pzl-Voo)}",
+			"mestoses"  : null,
+			"grammatus" : "Препозило-вооо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 14,
+			"name"      : "Вокруг",
+			"kestos"    : "ВОКРУГ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vkg)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-вокруго-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 15,
+			"name"      : "Окрест",
+			"kestos"    : "ВОКРУГ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vkg)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-вокруго-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 16,
+			"name"      : "Вкруг",
+			"kestos"    : "ВОКРУГ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Vkg)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-вокруго-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 17,
+			"name"      : "До",
+			"kestos"    : "ДО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Dov)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-доо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 18,
+			"name"      : "До (до дому,до ветру)",
+			"kestos"    : "ДОО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Prl-Doo)}",
+			"mestoses"  : null,
+			"grammatus" : "Партило-доо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 19,
+			"name"      : "За",
+			"kestos"    : "ЗА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Zav)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблато-зао-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 20,
+			"name"      : "За",
+			"kestos"    : "ЗАА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Zaa)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-заао-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 21,
+			"name"      : "Из",
+			"kestos"    : "ИЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Izz)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-изо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 22,
+			"name"      : "Из-за",
+			"kestos"    : "ИЗЗЗА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Rlvt(Gnl-Iaz)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-изззао-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 23,
+			"name"      : "Из-под",
+			"kestos"    : "ИЗПОД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Izp)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-изподо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 24,
+			"name"      : "Из-подо",
+			"kestos"    : "ИЗПОДО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Izd)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-изподоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 25,
+			"name"      : "Изо",
+			"kestos"    : "ИЗО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Izo)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-изоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 26,
+			"name"      : "К",
+			"kestos"    : "К",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Dal-Kkk)}",
+			"mestoses"  : null,
+			"grammatus" : "Дало-ко-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 27,
+			"name"      : "Ко",
+			"kestos"    : "КО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Dal-Koo)}",
+			"mestoses"  : null,
+			"grammatus" : "Дало-коо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 28,
+			"name"      : "Меж",
+			"kestos"    : "МЕЖ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Mej)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-межо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 29,
+			"name"      : "Промеж",
+			"kestos"    : "МЕЖ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Mej)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-межо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 30,
+			"name"      : "Между",
+			"kestos"    : "МЕЖДУ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Mjd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-междуо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 31,
+			"name"      : "Промежду",
+			"kestos"    : "МЕЖДУ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Mjd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-междуо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 32,
+			"name"      : "Мимо",
+			"kestos"    : "МИМО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Mmo)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-мимоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 33,
+			"name"      : "На",
+			"kestos"    : "НА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Nav)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-нао-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 34,
+			"name"      : "На",
+			"kestos"    : "НАА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Pzl-Naa)}",
+			"mestoses"  : null,
+			"grammatus" : "Препозило-наао-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 35,
+			"name"      : "Над",
+			"kestos"    : "НАД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Nad)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-надо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 36,
+			"name"      : "Надо",
+			"kestos"    : "НАДО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Ndo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-надоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 37,
+			"name"      : "О",
+			"kestos"    : "О",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Ooo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-оо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 38,
+			"name"      : "Об",
+			"kestos"    : "ОБ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Obb)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-обо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 39,
+			"name"      : "Обо",
+			"kestos"    : "ОБО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Obo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-обоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 40,
+			"name"      : "Обок",
+			"kestos"    : "ОБОК",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Obk)}",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Psd)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-посредо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 63,
+			"name"      : "Средь",
+			"kestos"    : "ПОСРЕДИ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Psd)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-посредо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 64,
+			"name"      : "Пред",
+			"kestos"    : "ПРЕД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Prd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-предо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 65,
+			"name"      : "Пред",
+			"kestos"    : "ПРЕДД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Pdd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-преддо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 66,
+			"name"      : "Предо",
+			"kestos"    : "ПРЕДО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Pre)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-предоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 67,
+			"name"      : "Предо",
+			"kestos"    : "ПРЕДДО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Pdo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-предоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 68,
+			"name"      : "Супротив",
+			"kestos"    : "ПРОТИВ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Prv)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-противо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 69,
+			"name"      : "Напротив",
+			"kestos"    : "ПРОТИВ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Prv)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-противо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 70,
+			"name"      : "По-за (корчму)",
+			"kestos"    : "ПОЗА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Pza)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-позао--предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 71,
+			"name"      : "По-за (кем)",
+			"kestos"    : "ПОЗЗА",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Pzz)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-позао--предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 72,
+			"name"      : "По-над",
+			"kestos"    : "ПОНАД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Pnd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-понадо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 73,
+			"name"      : "По-под",
+			"kestos"    : "ПОПОД",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Abl-Ppd)}",
+			"mestoses"  : null,
+			"grammatus" : "Аблало-поподо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 74,
+			"name"      : "С",
+			"kestos"    : "С",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Sss)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-со-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 75,
+			"name"      : "Сквозь",
+			"kestos"    : "СКВОЗЬ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Skz)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-сквозьо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 76,
+			"name"      : "Со",
+			"kestos"    : "СО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Soo)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-соо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 77,
+			"name"      : "У",
+			"kestos"    : "У",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Gnl-Uuu)}",
+			"mestoses"  : null,
+			"grammatus" : "Генило-уо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 78,
+			"name"      : "Через",
+			"kestos"    : "ЧЕРЕЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Chz)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-черезо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 79,
+			"name"      : "Чрез",
+			"kestos"    : "ЧЕРЕЗ",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Chz)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-черезо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 80,
+			"name"      : "Черезо",
+			"kestos"    : "ЧЕРЕЗО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Czo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-черезоо-предлого-симплидо-ориент",
+			"attributes": null
+		},
+		{
+			"id"        : 81,
+			"name"      : "Чрезо",
+			"kestos"    : "ЧЕРЕЗО",
+			"mission"   : "Десигнатор",
+			"valence"   : "{Pg/Smp/Ornt(Azl-Czo)}",
+			"mestoses"  : null,
+			"grammatus" : "Аккузало-черезоо-предлого-симплидо-ориент",
+			"attributes": null
+		}
+	], "total": 81, "duration": 14
+}

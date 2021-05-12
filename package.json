@@ -1,0 +1,50 @@
+{
+	"name"           : "benchmark",
+	"version"        : "0.1.0",
+	"private"        : true,
+	"scripts"        : {
+		"build-front": "vue-cli-service build --mode production",
+		"watch-back" : "nodemon -w ./src/server node ./src/server",
+		"watch-front": "vue-cli-service build-watch --mode development"
+	},
+	"dependencies"   : {
+		"@msgpack/msgpack" : "^2.4.0",
+		"@niobium/coder"   : "^0.4.4",
+		"ascii-table"      : "0.0.9",
+		"axios"            : "^0.21.1",
+		"binary-encoder"   : "^0.4.0",
+		"binary-serializer": "^0.1.0",
+		"binarytf"         : "^2.0.0",
+		"bser"             : "^2.1.1",
+		"cbor"             : "^7.0.2",
+		"codecs"           : "^2.2.0",
+		"express"          : "^4.17.1",
+		"fast-bser"        : "^0.4.7",
+		"messagepack"      : "^1.1.12",
+		"msgpack-lite"     : "^0.1.26",
+		"nason"            : "^1.2.0",
+		"notepack"         : "0.0.2",
+		"tiny-msgpack"     : "^1.0.2",
+		"vue"              : "^2.6.12",
+		"vuetify"          : "^2.4.4",
+		"webpack"          : "^4.46.0"
+	},
+	"devDependencies": {
+		"@niobium/tools"            : "^0.2.0",
+		"@vue/cli"                  : "~4.5.9",
+		"@vue/cli-plugin-babel"     : "~4.5.9",
+		"@vue/cli-plugin-eslint"    : "~4.5.9",
+		"@vue/cli-plugin-router"    : "~4.5.9",
+		"@vue/cli-service"          : "~4.5.9",
+		"babel-eslint"              : "^10.1.0",
+		"eslint"                    : "^7.18.0",
+		"eslint-plugin-vue"         : "^7.4.1",
+		"sass"                      : "^1.32.4",
+		"sass-loader"               : "^10.1.1",
+		"vue-cli-plugin-build-watch": "^1.0.0",
+		"vue-cli-plugin-pug"        : "^2.0.0",
+		"vue-cli-plugin-vuetify"    : "~2.0.9",
+		"vue-template-compiler"     : "^2.6.12",
+		"vuetify-loader"            : "^1.6.0"
+	}
+}
